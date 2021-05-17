@@ -295,5 +295,7 @@ seções do seu documento).
    Infelizmente, os links relativos não estão funcionando no github ao navegar por um
    Arquivo RST.
 
+<!-- Teste -->
+
 <!--- Licensed under Creative Commons Attribution 4.0 International License
 https://creativecommons.org/licenses/by/4.0/ -->
